@@ -9,15 +9,15 @@ In this program, we need two integer variables for random generated number and u
 1. Declare a variable that store number received from user.
 2. Welcoming message and other result messages.
 
-### Start label
+#### Start label
 1. Generate a random number and convert to ASCII code.
 
-### Loop label
+#### Loop label
 1. Read user's input.
 2. Check the digits.
 3. Compare the user's input and random number.
 
-### Low, high, correct and other labels
+#### Low, high, correct and other labels
 1. If the number is low, go to low label.
 2. If the number is high, go to high label.
 3. If the number is correct, go to correct label.
