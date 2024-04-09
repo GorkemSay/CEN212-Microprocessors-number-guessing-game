@@ -23,3 +23,6 @@ In this program, we need two integer variables for random generated number and u
 3. If the number is correct, go to correct label.
 4. If the number out of range, go to input_out_of_range label.
 5. Print the result and exit.
+
+#### Screenshot of the program
+<a href="https://ibb.co/NmgQDLP"><img src="https://i.ibb.co/xfKP9M0/Whats-App-Image-2024-04-09-at-23-13-28.jpg" alt="Whats-App-Image-2024-04-09-at-23-13-28" border="0"></a>
