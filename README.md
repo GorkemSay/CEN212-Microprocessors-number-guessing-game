@@ -5,4 +5,21 @@ In this game, the user will try to find a number randomly selected by the comput
 ### Algorithm
 In this program, we need two integer variables for random generated number and user's number. We need to compara theese two values and return a message for user. The code has a data part, a starting part and a loop part. In addition, there are 4 result labels, depending on the result that will be returned after comparing the numbers received from the user.
 
-#### Data Label
+#### Data section
+1. Declare a variable that store number received from user.
+2. Welcoming message and other result messages.
+
+### Start label
+1. Generate a random number and convert to ASCII code.
+
+### Loop label
+1. Read user's input.
+2. Check the digits.
+3. Compare the user's input and random number.
+
+### Low, high, correct and other labels
+1. If the number is low, go to low label.
+2. If the number is high, go to high label.
+3. If the number is correct, go to correct label.
+4. If the number out of range, go to input_out_of_range label.
+5. Print the result and exit.
